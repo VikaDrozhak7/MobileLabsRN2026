@@ -1,10 +1,10 @@
 [
   { "id": "g1", "image": "server/images/g1.jpg" },
-  { "id": "g2", "image": "server/images/g1.jpg" },
-  { "id": "g3", "image": "server/images/g1.jpg" },
-  { "id": "g4", "image": "server/images/g1.jpg" },
+  { "id": "g2", "image": "server/images/n2.jpg" },
+  { "id": "g3", "image": "server/images/n3.jpg" },
+  { "id": "g4", "image": "server/images/n4.jpg" },
   { "id": "g5", "image": "server/images/g1.jpg" },
-  { "id": "g6", "image": "server/images/g1.jpg" },
-  { "id": "g7", "image": "server/images/g1.jpg" },
-  { "id": "g8", "image": "server/images/g1.jpg" }
+  { "id": "g6", "image": "server/images/n2.jpg" },
+  { "id": "g7", "image": "server/images/n3.jpg" },
+  { "id": "g8", "image": "server/images/n4.jpg" }
 ]
