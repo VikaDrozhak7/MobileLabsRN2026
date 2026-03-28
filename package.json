@@ -1,0 +1,18 @@
+{
+  "name": "lab4-file-manager",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~54.0.0",
+    "expo-file-system": "~18.0.12",
+    "react": "19.1.0",
+    "react-native": "0.81.4"
+  },
+  "private": true
+}
